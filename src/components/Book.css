@@ -1,0 +1,10 @@
+.oneBook{
+  width: 300px;
+  padding: 10px;
+}
+
+.bookName { 
+  color: rgb(158, 158, 166);
+  font-size: 25px;
+}
+
